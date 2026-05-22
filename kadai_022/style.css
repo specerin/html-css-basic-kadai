@@ -67,6 +67,6 @@ footer {
     font-size: 25px;
   }
   #parent {
-    display: inline-block;
+    flex-direction: column;
   }
 }
